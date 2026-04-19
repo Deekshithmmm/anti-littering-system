@@ -24,7 +24,7 @@ Follow these steps to set up the Anti-Littering System on your local machine:
 
 1. **Clone the repository**:
 ```python
-git clone https://github.com/ananya868/Anti-Littering-System-Computer-Vision.git
+git clone https://github.com/Deekshithmmm/anti-littering-system
 cd Anti-Littering-System-Computer-Vision
 ```
 
@@ -42,20 +42,10 @@ pip install -r requirements.txt
 python IntegratedArchitecture.py
 ```
 
-## Research Work
-Paper link for the research work carried out: https://ieeexplore.ieee.org/document/10616763
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact 📇
 For any inquiries or feedback, please contact us at:
-- Email: ananya8154@gmail.com
+- Email: deekdeekshi75@gmail.com
 
-## Acknowledgements
-We would like to thank the following resources and communities for their support:
-- [YOLO](https://github.com/AlexeyAB/darknet) for the object detection model.
-- [MoveNet](https://github.com/tensorflow/tfjs-models/tree/master/pose-detection) for hand landmark detection.
-- [DeepFace](https://github.com/serengil/deepface) for facial recognition.
 
 Thank you for checking out the Anti-Littering System! We hope it makes a positive impact on keeping our environment clean and litter-free. 🌍✨
